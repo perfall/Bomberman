@@ -6,4 +6,4 @@
 	<p>Use arrow keys and space to play.</p>
 </body>
 
-![ScreenShot](https://raw.githubusercontent.com/perfall/bomberman/master/bomberman-image.png)
+![ScreenShot](https://raw.githubusercontent.com/perfall/Bomberman/master/bomberman-image.png)
